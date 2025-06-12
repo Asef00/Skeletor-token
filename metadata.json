@@ -1,0 +1,15 @@
+{
+    "key": 4,
+    "updateAuthority": "9AhKqLR67hwapvG8SA2JFXaCshXc9nALJjpKaHZrsbkw",
+    "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "data": {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "uri": "https://arweave.net/QPC6FYdUn-3V8ytFNuoCS85S2tHAuiDblh6u3CIZLsw",
+        "sellerFeeBasisPoints": 0
+    },
+    "primarySaleHappened": 1,
+    "isMutable": 1,
+    "editionNonce": 255,
+    "tokenStandard": 2
+}
